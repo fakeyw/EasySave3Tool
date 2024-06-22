@@ -4,7 +4,7 @@ Usage:
 python es3_cipher_tool.py decrypt [input_file] [output_file] [key]
 # encrypt back to es3 file
 python es3_cipher_tool.py encrypt [input_file] [output_file] [key]
-# fix json-like test to parseable json
+# fix json-like text to parseable json
 python es3_cipher_tool.py es3_to_json [input_file] [output_file]
 # recovery to json-like format
 python es3_cipher_tool.py json_to_es3 [input_file [output_file]
